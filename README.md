@@ -76,7 +76,7 @@ Substantial damage occurred in 72.17% of cases.Destroyed aircraft accounted for 
     
 #### 6-Create Visualizations
 
-![WEATHER_CONDITIONS](https://github.com/Naomi-N-w/Phase-1-Project/blob/main/Weather%20Conditions%20During%20Aircraft%20Accidents.png)
+![Accident by WEATHER_CONDITIONS](https://github.com/Naomi-N-w/Phase-1-Project/blob/main/Aircraft%20Accidents%20by%20Weather%20Conditions%20.png)
 
 ![phase_of_flight](https://github.com/Naomi-N-w/Phase-1-Project/blob/main/Accidents%20by%20broad_phase_of_flight%20.png)
 
